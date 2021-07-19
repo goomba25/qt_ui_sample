@@ -12,4 +12,4 @@ Qt5 version and qt creator tool were used.
 
 ## List
 
-* MainWindow
+* 기본적인 MainWindow 만들기 (mainwindow_sample)
