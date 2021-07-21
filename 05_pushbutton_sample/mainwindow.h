@@ -14,12 +14,7 @@ public:
 private:
     QWidget *central_widget_;
     QVBoxLayout *full_layout_;
-    QPushButton *button_[2];
-    QLabel *label_;
-
-    void VBoxLayoutInit();
-    void ButtonInit();
-    void LabelInit();
+    QPushButton *button_[7];
 };
 
 #endif // MAINWINDOW_H

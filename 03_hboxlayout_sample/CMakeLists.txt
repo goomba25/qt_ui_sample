@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.0)
-project(gridlayout_sample LANGUAGES CXX)
+project(03_hboxlayout_sample LANGUAGES CXX)
 
 set(CMAKE_CXX_STANDARD 11)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)

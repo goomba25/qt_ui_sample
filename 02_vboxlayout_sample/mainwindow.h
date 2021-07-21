@@ -2,7 +2,7 @@
 #define MAINWINDOW_H
 
 #include <QMainWindow>
-#include <QHBoxLayout>
+#include <QVBoxLayout>
 #include <QPushButton>
 #include <QLabel>
 
@@ -13,13 +13,9 @@ public:
     explicit MainWindow(QWidget *parent = nullptr);
 private:
     QWidget *central_widget_;
-    QHBoxLayout *full_layout_;
+    QVBoxLayout *full_layout_;
     QPushButton *button_[2];
     QLabel *label_;
-
-    void HBoxLayoutInit();
-    void ButtonInit();
-    void LabelInit();
 };
 
 #endif // MAINWINDOW_H

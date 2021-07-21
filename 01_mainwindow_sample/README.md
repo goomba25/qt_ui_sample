@@ -3,20 +3,19 @@ Make QMainWindow
 ## tree
 
 ```cpp
-$ tree mainwindow_sample/
+$ tree 01_mainwindow_sample/
 
-Sample
+01_mainwindow_sample/
  ├── CMakeLists.txt
  ├── main.cpp
  ├── mainwindow.cpp
  └── mainwindow.h
 ```
 
-
 ## QMainWindow 구조
 
-![image](/mainwindow_sample/img/mainwindow.png)
+![image](/01_mainwindow_sample/img/mainwindow.png)
 
 ## 결과 화면
 
-![image](/mainwindow_sample/img/mainwindow_result.png)
+![image](/01_mainwindow_sample/img/mainwindow_result.png)
