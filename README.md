@@ -14,5 +14,5 @@ Qt5 version and qt creator tool were used.
 
 * 기본적인 MainWindow 만들기 (mainwindow_sample)
 * VBoxLayout 사용하기 (vboxlayout_sample)
-* HBoxLayout 사용하기 (hboxloyout_sample)
-
+* HBoxLayout 사용하기 (hboxlayout_sample)
+* GridLayout 사용하기 (gridlayout_sample)
