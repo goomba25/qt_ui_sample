@@ -3,7 +3,7 @@
 
 #include <QMainWindow>
 #include <QVBoxLayout>
-#include <QPushButton>
+#include <QLabel>
 
 class MainWindow : public QMainWindow
 {
@@ -13,7 +13,7 @@ public:
 private:
     QWidget *central_widget_;
     QVBoxLayout *full_layout_;
-    QPushButton *button_[7];
+    QLabel *label_[5];
 };
 
 #endif // MAINWINDOW_H
