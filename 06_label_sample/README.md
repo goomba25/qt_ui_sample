@@ -8,6 +8,7 @@
 * setText(const QString &text) : 텍스트 입력
 * setSizePolicy(QSizePolicy) : 사이즈 정책 변경
 * setFixedSize(QSize) : 위젯의 사이즈를 해당 사이즈로 고정
+* setAlignment(Qt::Alignment) : 정렬을 설정
 
 
 ## 결과 화면

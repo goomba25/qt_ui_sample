@@ -17,3 +17,4 @@ Qt5 version and qt creator tool were used.
 * HBoxLayout 사용하기 (03_hboxlayout_sample)
 * GridLayout 사용하기 (04_gridlayout_sample)
 * PushButton 사용하기 (05_pushbutton_sample)
+* Label 사용하기
