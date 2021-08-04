@@ -18,3 +18,4 @@ Qt5 version and qt creator tool were used.
 * GridLayout 사용하기 (04_gridlayout_sample)
 * PushButton 사용하기 (05_pushbutton_sample)
 * Label 사용하기 (06_label_sample)
+* LineEdit 사용하기 (07_line_edit_sample)
