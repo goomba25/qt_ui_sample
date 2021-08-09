@@ -20,3 +20,4 @@ Qt5 version and qt creator tool were used.
 * Label 사용하기 (06_label_sample)
 * LineEdit 사용하기 (07_line_edit_sample)
 * Pixmap으로 이미지 표시하기 (08_pixmap_sample)
+* CheckBox 사용하기 (09_checkbox_sample)
